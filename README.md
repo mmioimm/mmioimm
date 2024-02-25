@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![](https://github.com/mmioimm/mmioimm/blob/main/profile-snake-contrib/github-contribution-grid-snake-dark.svg)
+
 <!--
 **mmioimm/mmioimm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
